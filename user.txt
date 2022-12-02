@@ -1,0 +1,12 @@
+admin, adm1n
+finlay, python
+michael, javascript
+alex, sql
+tiw, react
+jame, css
+mark, django
+peter, c++
+carl, bootstrap
+thomas, join
+david, enumerate
+johnny, timedate

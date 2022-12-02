@@ -1,0 +1,16 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 23 Jan 2023, Yes
+thomas, html coding, learn to code with html, 09 Nov 2022, 22 Nov 2022, No
+michael, code a for loop, code a for loop in python, 09 Nov 2022, 22 Nov 2022, No
+finlay, create a list, create a list in python, 09 Nov 2022, 20 Nov 2022, Yes
+tiw, build a 2D list, build a 2D list in python, 09 Nov 2022, 22 Nov 2022, Yes
+mark, create django website, create a website with django, 16 Nov 2022, 23 Nov 2022, No
+admin, build a 10D list, build a 10D list in python, 16 Nov 2022, 25 Nov 2022, Yes
+peter, code in c++, code using the c++ language, 16 Nov 2022, 21 Dec 2022, No
+admin, build a class object in python, building a class object using the python programming language, 22 Nov 2022, 23 May 2023, Yes
+finlay, website creation, create a website in html, 23 Nov 2022, 22 Nov 2022, No
+finlay, build an object, build an object in python, 23 Nov 2022, 12 Oct 2022, No
+tiw, build a list, build a list in javascript, 23 Nov 2022, 19 Oct 2022, No
+david, build a game, build a game in python, 23 Nov 2022, 22 Nov 2022, No
+tiw, debugging, debug a python program, 23 Nov 2022, 27 Jan 2023, No
+johnny, debugging in javascript, debug a javascript program, 23 Nov 2022, 21 Nov 2023, Yes
